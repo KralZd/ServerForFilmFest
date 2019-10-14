@@ -1,2 +1,3 @@
 # ServerForFilmFest
-serve for school project
+reference project for job search
+server for school project
